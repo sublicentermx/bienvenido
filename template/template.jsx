@@ -11,7 +11,7 @@ export default function Template({ children }){
                     <div className='container-fluid'>
                         <ul className="navbar-nav mx-auto first-nav-top">
                             <li className='nav-item oferta'><span>Oferta por tiempo limitado</span><strong>KIT DE INICIO PARA SUBLIMAR ¡AL 15% DE DESCUENTO!</strong></li>
-                            <li className='nav-item lo-quiero-li'><a href="#" className='lo-quiero'>¡LO QUIERO!</a></li>
+                            <li className='nav-item lo-quiero-li'><a href="https://www.sublicenter.mx/collections/kits-de-inicio" className='lo-quiero'>¡LO QUIERO!</a></li>
                         </ul>
                     </div>
                 </nav>
