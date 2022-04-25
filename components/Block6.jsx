@@ -10,7 +10,7 @@ export default function Block6(){
                 </div>
                 <div className="col-12 col-md-4">
                     <div className="col-12 col-md-7 inversion">
-                        <h3>Inversión baja: <br />  Cases sublimadas</h3>
+                        <h3>Inversión media: <br />  Cases sublimadas</h3>
                         <div className='text-lg-start complementos mt-5'>
                             <span>Solo necesitas:</span>
                             <ul>

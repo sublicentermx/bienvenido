@@ -14,7 +14,7 @@ export default function Block10(){
             <div className="container">              
                 <div className="row info-info">
                     <div className="col-12 text-center info">
-                        <p>Claro que puedes quedarte como estás ahora o podrías generar mejores ingresos con un negocio cuyo margen de ganancias puede ser hasta del 700%</p>
+                        <p>Claro que puedes quedarte como estás ahora o podrías generar mejores ingresos con un negocio cuya ganancia por case va entre $100 y $600.</p>
                     </div>
                 </div>
             </div>
