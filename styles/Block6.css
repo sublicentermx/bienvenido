@@ -1,0 +1,43 @@
+#block6 {
+    background: transparent linear-gradient(180deg, #1C2B31 0%, #212121 100%) 0% 0% no-repeat padding-box;
+}
+#block6 .row{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+#block6 .inversion h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    letter-spacing: 5px;
+    color: #FFFFFF;
+    margin-top: 113px;
+    text-align: center;
+}
+#block6 .inversion .complementos {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #FFFFFF;
+    font-weight: 300;
+}
+#block6 .button{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    padding: 10px 50px;
+    letter-spacing: 1.75px;
+    color: #000000;
+    background: #C9E72C 0% 0% no-repeat padding-box;
+    box-shadow: 5px 15px 45px #FE282899;
+    border-radius: 53px;
+}
+@media (max-width:768px){
+    #block6 .button{
+        font-size: 20px;
+        padding: 10px 10px;
+    }
+    #block6 .inversion .complementos {
+        font-size: 18px;
+    }
+}

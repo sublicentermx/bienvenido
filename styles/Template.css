@@ -1,0 +1,49 @@
+.custom-navbar{
+  background: linear-gradient(0deg, rgba(255,8,140,1) 0%, rgba(254,25,89,1) 48%);
+  color: white !important;
+}
+.custom-navbar .oferta{
+  font-weight: 100;
+}
+.custom-navbar .oferta span{
+  padding-right: 5px;
+}
+.custom-navbar .oferta strong{
+  font-weight: 700;
+}
+.custom-navbar .lo-quiero-li{
+  padding-left: 15px;
+}
+.custom-navbar .lo-quiero{
+  background-color: #f3b721;
+  border-radius: 15px;
+  color: black;
+  text-decoration: none;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 700;
+  font-size: 14px;
+}
+@media (max-width:768px) {
+  .custom-navbar .lo-quiero{
+    padding-left: 15px;
+    padding-right: 15px;
+    display: block;
+    text-align: center;
+  }
+  .custom-navbar .oferta span{
+    display: none;
+  }
+  .custom-navbar .lo-quiero-li{
+    padding-left: 0px;
+  }
+}
+
+.custom-navbar-main{
+  background: #141417;
+}
+.custom-navbar-main .navbar-nav a{
+  font-size: 20px;
+}

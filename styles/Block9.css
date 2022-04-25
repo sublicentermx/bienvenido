@@ -1,0 +1,48 @@
+#block9{
+
+}
+#block9 .row{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+#block9 .gray{
+    background: #f7f7f7;
+}
+#block9 .gray a{
+    text-decoration: none;
+    color: black;
+}
+#block9 .text {
+    padding: 200px 55px;
+}
+#block9 .text h2{
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 76px;
+    letter-spacing: 7.6px;
+}
+#block9 .text p{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    letter-spacing: 0px;
+    font-size: 35px;
+    font-weight: 300;
+}
+@media (max-width:768px){
+    #block9 .text {
+        padding: 50px 20px;
+    }
+    #block9 .text h2{
+        text-align: center;
+        font-size: 45px;
+    }
+    #block9 .text p{
+        font-size: 25px;
+        text-align: center;
+    }
+}
