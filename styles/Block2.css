@@ -78,6 +78,8 @@
     #block2 .title-inicio .title-div .title-button {
         font-size: 18px;
         padding: 0px 15px;
+        text-decoration: none;
+        display: block;
     }
     #block2 .video{
         padding: 0px 0px; 

@@ -31,6 +31,8 @@
     background: #C9E72C 0% 0% no-repeat padding-box;
     box-shadow: 5px 15px 45px #FE282899;
     border-radius: 53px;
+    text-decoration: none;
+    display: block;
 }
 @media (max-width:768px){
     #block6 .button{
